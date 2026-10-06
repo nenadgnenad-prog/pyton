@@ -1,0 +1,13 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Pokreni trenutnu datoteku",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${file}",
+            "console": "integratedTerminal",
+            "python": "C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python312\\python.exe"
+        }
+    ]
+}
